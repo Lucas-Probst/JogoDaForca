@@ -1,0 +1,14 @@
+computador
+videogame
+celular
+roteador
+internet
+monitor
+processador
+memoria
+cadeira
+casa
+carro
+cachorro
+velocimetro
+volante
