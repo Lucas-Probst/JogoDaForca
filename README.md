@@ -1,2 +1,2 @@
 # jogoDaForca
- Jogo da Forca em Python com interface
+ Jogo da Forca com interface desenvolvido em Python
